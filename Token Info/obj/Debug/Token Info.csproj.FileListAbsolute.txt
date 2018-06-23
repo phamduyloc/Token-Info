@@ -1,0 +1,9 @@
+D:\_CODING\C#\Info Token\Info Token\bin\Debug\Info Token.exe.config
+D:\_CODING\C#\Info Token\Info Token\bin\Debug\Info Token.exe
+D:\_CODING\C#\Info Token\Info Token\bin\Debug\Info Token.pdb
+D:\_CODING\C#\Info Token\Info Token\bin\Debug\Pkcs11Interop.dll
+D:\_CODING\C#\Info Token\Info Token\obj\Debug\Token Info.csprojAssemblyReference.cache
+D:\_CODING\C#\Info Token\Info Token\obj\Debug\Token Info.csproj.CoreCompileInputs.cache
+D:\_CODING\C#\Info Token\Info Token\obj\Debug\Token Info.csproj.CopyComplete
+D:\_CODING\C#\Info Token\Info Token\obj\Debug\Info Token.exe
+D:\_CODING\C#\Info Token\Info Token\obj\Debug\Info Token.pdb
